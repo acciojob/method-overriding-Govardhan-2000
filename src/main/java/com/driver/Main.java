@@ -23,6 +23,6 @@ public class Main {
 
         // Calling overridden method meth from class B
         String result2 = obj.meth();
-        System.out.println("Result 2: " + result2);
+        System.out.println( result2);
     }
 }
